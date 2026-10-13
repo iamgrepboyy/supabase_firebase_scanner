@@ -1,0 +1,2 @@
+# supabase_firebase_scanner
+supabase_firebase_scanner Burp Extension
